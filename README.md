@@ -9,7 +9,6 @@ The tool evaluated here is the [Twitter saliency filter](https://github.com/twit
 [FairFace: the face attribute dataset that is balanced for gender, race and age](https://arxiv.org/abs/1908.04913v1); is used here to generate the random image pairs for performing the saliency filter tests.
 
 Quantification of the statisitcal significance in differences between the carefully manipulated saliency filter outputs and the baseline saliency filter outputs, is performed using the [Wilcoxon signed rank test](https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test).
-Twitter saliency filter algorithmic bias analysis using automated tools
 
 ### Additional requirements
 
