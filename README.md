@@ -1,5 +1,7 @@
 # **Automated algorithmic bias analysis of Twitter saliency filter**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eZpt6KPtrlA2egvuTnyS31v3UqDJScCD?usp=sharing)
+
 This repository hosts a Jupyter notebook that introduces a few broad concepts, to help further develop automated testing tools for detecting algorithmic bias in machine vision tools, such as saliency filters.
 
 The tool evaluated here is the [Twitter saliency filter](https://github.com/twitter-research/image-crop-analysis).
