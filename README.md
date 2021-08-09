@@ -23,4 +23,4 @@ SPDX-License-Identifier: Apache-2.0
 ```
 
 ## Data download
-Download the FairFace dataset **`fairface-img-margin125-trainval.zip`** file and the labels **`fairface_label_train.csv`** file from the official **[FairFace GitHub repo](https://github.com/joojs/fairface)**.
+Download the FairFace dataset **`fairface-img-margin125-trainval.zip`** file and the labels **`fairface_label_train.csv`** file from the official **[FairFace GitHub repo](https://github.com/joojs/fairface)**. The maintainers of the FairFace GitHub repository have published the links to download the data in their GitHub repo README file.
