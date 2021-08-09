@@ -1,6 +1,6 @@
 # **Automated algorithmic bias analysis of Twitter saliency filter**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eZpt6KPtrlA2egvuTnyS31v3UqDJScCD?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoadComputer/twitter_saliency_bias_analysis/blob/main/twitter_saliency_bias_analysis.ipynb)
 
 This repository hosts a Jupyter notebook that introduces a few broad concepts, to help further develop automated testing tools for detecting algorithmic bias in machine vision tools, such as saliency filters.
 
@@ -13,7 +13,7 @@ Quantification of the statisitcal significance in differences between the carefu
 ### Additional requirements
 
 * Valid Google account
-* This notebook by default assumes that the user is working inside the original [Google Colab environment](https://colab.research.google.com/drive/1eZpt6KPtrlA2egvuTnyS31v3UqDJScCD?usp=sharing). To run locally or in other cloud environments, please make sure that the data dependencies are satisfied.
+* This notebook by default assumes that the user is working inside the original [Google Colab environment](https://colab.research.google.com/github/MoadComputer/twitter_saliency_bias_analysis/blob/main/twitter_saliency_bias_analysis.ipynb). To run locally or in other cloud environments, please make sure that the data dependencies are satisfied.
 * Google Drive access to save the FairFace dataset and the experiment history
 
 ```
